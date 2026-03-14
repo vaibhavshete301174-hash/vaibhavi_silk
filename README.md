@@ -1,4 +1,4 @@
-# Priya Sarees Website
+# Vaibhavi Silk Website
 
 Your complete saree shop website — ready for GitHub Pages (free hosting).
 
@@ -40,10 +40,10 @@ Open `script.js` and change these 4 lines at the top:
 
 ```js
 const CONFIG = {
-  whatsappNumber: '919999999999',   // ← Your WhatsApp with 91 prefix
-  upiId:          'priyasarees@upi', // ← Your UPI ID
+  whatsappNumber: '918830354532',   // ← Your WhatsApp with 91 prefix
+  upiId:          'vaibhavishete2788k@kotak', // ← Your UPI ID
   shopName:       'Priya Sarees',    // ← Your shop name
-  ownerPhone:     '9999999999',      // ← Your phone number
+  ownerPhone:     '8830354532',      // ← Your phone number
 };
 ```
 
