@@ -6,7 +6,7 @@
 // ── CONFIG — Edit these 4 values before uploading ───────────
 const CONFIG = {
   whatsappNumber: '918830354532',      // Your WhatsApp with country code (91 for India)
-  upiId:          'vaibhavishete2788k@kotak',   // Your UPI ID
+  upiId:          'vaibhavishete2788@kotak',   // Your UPI ID
   shopName:       'Vaibhavi Silk',      // Your shop name
   ownerEmail:     'vaibhavishete@gmail.com', // ← CHANGE THIS to your email address
 };
